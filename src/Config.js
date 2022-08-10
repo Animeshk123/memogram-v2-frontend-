@@ -1,0 +1,1 @@
+export const BaseUrl = "https://memo-gram-backend-api.vercel.app";
